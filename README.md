@@ -15,3 +15,6 @@ Python中关于字典的基础知识
 alien_0 = {'color': 'green'}
 print(alien_0['color'])
 ```
+
+### 添加键值对
+字典名[键] = 值    ![image](https://user-images.githubusercontent.com/130123927/234268992-c25418f0-8397-4e4f-88e6-1d652c6913ab.png)
