@@ -8,7 +8,8 @@ Python中关于字典的基础知识
 # 基础知识
 ## 使用字典 
 ### 访问字典中的值：
-方式：字典名[键]   制定的键不存在时会引发问题。 
+![image](https://user-images.githubusercontent.com/130123927/234269181-883fd50b-fcd8-4f27-999e-7705e26e3ab2.png)
+   制定的键不存在时会引发问题。 
 
 案例：
 ```python
@@ -17,4 +18,4 @@ print(alien_0['color'])
 ```
 
 ### 添加键值对
-字典名[键] = 值    ![image](https://user-images.githubusercontent.com/130123927/234268992-c25418f0-8397-4e4f-88e6-1d652c6913ab.png)
+![image](https://user-images.githubusercontent.com/130123927/234268992-c25418f0-8397-4e4f-88e6-1d652c6913ab.png)
