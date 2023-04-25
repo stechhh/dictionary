@@ -19,3 +19,13 @@ print(alien_0['color'])
 
 ### 添加键值对
 ![image](https://user-images.githubusercontent.com/130123927/234268992-c25418f0-8397-4e4f-88e6-1d652c6913ab.png)
+
+案例：
+```python
+alien_0 = {'color':'green', 'points':5}
+print(alien_0)
+
+alien_0['x_position'] = 0
+alien_0['y_position'] = 25
+print(alien_0)
+```
